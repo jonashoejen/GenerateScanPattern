@@ -1,0 +1,4 @@
+09/08/22 14:39:04 AscPUS6_2TC MID: 8, Address: 97, Length: 1  
+09/08/22 14:39:04 AscPUS6_2TC MID: 8, Address: 406, Length: 4  
+09/08/22 14:41:41 AscRequestStatusTC  
+09/08/22 14:41:42 GPS Packet  

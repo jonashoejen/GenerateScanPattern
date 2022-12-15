@@ -1,0 +1,1645 @@
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1, usecs:1
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.80, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:411, usecs:346
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=14.15, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:411, usecs:346
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000276 / Setting shutter to: enb:0x01, sticks:328, usecs:276
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000235 / Setting shutter to: enb:0x01, sticks:278, usecs:235
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000209 / Setting shutter to: enb:0x01, sticks:248, usecs:209
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000192 / Setting shutter to: enb:0x01, sticks:227, usecs:192
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000180 / Setting shutter to: enb:0x01, sticks:214, usecs:180
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000171 / Setting shutter to: enb:0x01, sticks:203, usecs:171
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000164 / Setting shutter to: enb:0x01, sticks:194, usecs:164
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000157 / Setting shutter to: enb:0x01, sticks:187, usecs:157
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000153 / Setting shutter to: enb:0x01, sticks:182, usecs:153
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000150 / Setting shutter to: enb:0x01, sticks:178, usecs:150
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000148 / Setting shutter to: enb:0x01, sticks:175, usecs:148
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000148 / Setting shutter to: enb:0x01, sticks:175, usecs:148
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.74, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.90, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:148
+ReferenceImage(): Reference image stored.
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.71, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.67, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:148
+Received internal TOPS_TC_ID - CHU-A
+Copying centroids!
+-- SLI threshhold 115, matchThreshold: 3, mergeThreshold 7, cenSizeThreshold 0
+cen size 0
+chu temp with offset 27
+-- sysparameter SLI A side
+-- SLI beams loading 17
+-- Temp params loading 1
+Temps  26
+i 1, Index 0
+ID   0, Flags   0, Bx +0.0109515050, By -0.0352551006, BetaX +1.7884376049, BetaY +1.1415582895
+ID   1, Flags   0, Bx +0.0089406744, By -0.0354194082, BetaX +1.7127597332, BetaY +1.1327534914
+ID   2, Flags   0, Bx +0.0069466336, By -0.0356062800, BetaX +1.6362518072, BetaY +1.1266200542
+ID   3, Flags   0, Bx +0.0112488698, By -0.0376236215, BetaX +1.7990540266, BetaY +1.0717028379
+ID   4, Flags   0, Bx +0.0091667669, By -0.0377604887, BetaX +1.7206394672, BetaY +1.0627338886
+ID   5, Flags   0, Bx +0.0070907380, By -0.0379135124, BetaX +1.6413011551, BetaY +1.0564990044
+ID   6, Flags   0, Bx +0.0072757900, By -0.0404649414, BetaX +1.6469259262, BetaY +0.9862693548
+ID   7, Flags   0, Bx +0.0115564661, By -0.0401277430, BetaX +1.8103308678, BetaY +1.0029309988
+ID   8, Flags   0, Bx +0.0093496041, By -0.0403233394, BetaX +1.7284309864, BetaY +0.9927039742
+ID   9, Flags   0, Bx +0.0119583318, By -0.0429161415, BetaX +1.8238303661, BetaY +0.9339310527
+ID  10, Flags   0, Bx +0.0097125228, By -0.0431633294, BetaX +1.7390726805, BetaY +0.9226312637
+ID  11, Flags   0, Bx +0.0074199867, By -0.0432743393, BetaX +1.6520630121, BetaY +0.9159519076
+ID  12, Flags   0, Bx +0.0099683162, By -0.0460855812, BetaX +1.7489640713, BetaY +0.8546912670
+ID  13, Flags   0, Bx +0.0074732797, By -0.0460755974, BetaX +1.6559461355, BetaY +0.8482811451
+ID  14, Flags   0, Bx +0.0050121155, By -0.0334952250, BetaX +1.5577018261, BetaY +1.1953341961
+ID  15, Flags   0, Bx +0.0047527365, By -0.0316847861, BetaX +1.5526763201, BetaY +1.2656735182
+ID  16, Flags   0, Bx +0.0124987662, By -0.0333379731, BetaX +1.8504617214, BetaY +1.2191251516
+Number of matches after iteration 0: 6
+travelMean of Main Beams: 0, Count: 0
+Performing match iteration 2 with accepted plane deviation of 5000.000000 µm
+-- Number of matched SLI 6
+number of centroids 6
+-- SLI dist2plane 105047.828125, Normal 0.014485 0.319020 0.947637
+-- SLI command done
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=14.28, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=14.35, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:148
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000149 / Setting shutter to: enb:0x01, sticks:177, usecs:149
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000149 / Setting shutter to: enb:0x01, sticks:177, usecs:149
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000147 / Setting shutter to: enb:0x01, sticks:175, usecs:147
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+id=0, back=14.57, deltaOffset=1, floor=1833.08, ceiling=2313.08
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000147 / Setting shutter to: enb:0x01, sticks:175, usecs:147
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.74, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.90, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:147
+ReferenceImage(): Reference image stored.
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.72, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.73, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:147
+Compressing Image with no compression!
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.82, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.80, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:147
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.55, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.60, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:147
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.68, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.70, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:147
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.83, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.70, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:147
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.73, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=14.18, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:175, usecs:147
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=14.42, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000433 / Setting shutter to: enb:0x01, sticks:515, usecs:433
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+id=0, back=14.60, deltaOffset=1, floor=1834.13, ceiling=2314.13
+ID: 0, IntTime: 0.000418 / Setting shutter to: enb:0x01, sticks:497, usecs:418
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000409 / Setting shutter to: enb:0x01, sticks:486, usecs:409
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+id=0, back=14.59, deltaOffset=1, floor=1835.11, ceiling=2315.11
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000440 / Setting shutter to: enb:0x01, sticks:522, usecs:440
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.61, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.49, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:522, usecs:440
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.90, floor=0.00, ceiling=0.00
+ReferenceImage(): Reference image stored.
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.73, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:522, usecs:440
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.74, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Copying centroids!
+-- SLI threshhold 115, matchThreshold: 3, mergeThreshold 7, cenSizeThreshold 0
+cen size 0
+chu temp with offset 27
+-- sysparameter SLI B side
+-- SLI beams loading 34
+-- Temp params loading 1
+Temps  26
+i 1, Index 0
+ID  17, Flags   0, Bx +0.0057535926, By -0.0428622663, BetaX +1.9823951721, BetaY +0.9644280076
+ID  18, Flags   0, Bx +0.0046415664, By -0.0371352695, BetaX +1.9299709797, BetaY +1.1073994637
+ID  19, Flags   0, Bx +0.0031712689, By -0.0318340063, BetaX +1.8789670467, BetaY +1.2594374418
+ID 148, Flags   0, Bx +0.0020890227, By -0.0272453278, BetaX +1.8426452875, BetaY +1.4154407978
+ID 149, Flags   0, Bx +0.0012963256, By -0.0228746179, BetaX +1.8192392588, BetaY +1.5820792913
+ID 150, Flags   0, Bx +0.0037857369, By -0.0520897545, BetaX +1.8968021870, BetaY +0.7628143430
+ID  23, Flags   0, Bx +0.0013150694, By -0.0439397581, BetaX +1.8112390041, BetaY +0.9110768437
+ID  24, Flags   0, Bx -0.0002445076, By -0.0379711837, BetaX +1.7539763451, BetaY +1.0588868856
+ID 153, Flags   0, Bx -0.0013088090, By -0.0330104567, BetaX +1.7133349180, BetaY +1.2096962929
+ID 154, Flags   0, Bx -0.0025231345, By -0.0534045622, BetaX +1.6703526974, BetaY +0.7154663801
+ID  27, Flags   0, Bx -0.0021172520, By -0.0284892023, BetaX +1.6831212044, BetaY +1.3660948277
+ID  28, Flags   0, Bx -0.0039310623, By -0.0451439694, BetaX +1.6150383949, BetaY +0.8700920343
+ID  29, Flags   0, Bx -0.0026883828, By -0.0240523890, BetaX +1.6617772579, BetaY +1.5326180458
+ID  30, Flags   0, Bx -0.0048648240, By -0.0390414149, BetaX +1.5773025751, BetaY +1.0220845938
+ID  31, Flags   0, Bx -0.0080874646, By -0.0548900813, BetaX +1.4471452236, BetaY +0.6898402572
+ID  32, Flags   0, Bx -0.0056300815, By -0.0340551995, BetaX +1.5481953621, BetaY +1.1743692160
+ID  33, Flags   0, Bx -0.0091721881, By -0.0466406420, BetaX +1.4144114256, BetaY +0.8445672989
+ID  34, Flags   0, Bx -0.0062186802, By -0.0294581372, BetaX +1.5257828236, BetaY +1.3323338032
+ID  35, Flags   0, Bx -0.0095624095, By -0.0402153134, BetaX +1.3972938061, BetaY +0.9990497828
+ID 164, Flags   0, Bx -0.0154072437, By -0.0581066459, BetaX +1.1929954290, BetaY +0.6781013608
+ID 165, Flags   0, Bx -0.0066543557, By -0.0250003077, BetaX +1.5082358122, BetaY +1.4986348152
+ID  38, Flags   0, Bx -0.0099768816, By -0.0348998420, BetaX +1.3823118210, BetaY +1.1543450356
+ID  39, Flags   0, Bx -0.0150485029, By -0.0488233417, BetaX +1.2059496641, BetaY +0.8334442973
+ID  40, Flags   0, Bx -0.0102976868, By -0.0302038826, BetaX +1.3691655397, BetaY +1.3126049042
+ID  41, Flags   0, Bx -0.0147926817, By -0.0415891148, BetaX +1.2126861811, BetaY +0.9904953837
+ID 170, Flags   0, Bx -0.0147714466, By -0.0358752273, BetaX +1.2129355669, BetaY +1.1466608047
+ID 171, Flags   0, Bx -0.0106727760, By -0.0256220382, BetaX +1.3557416201, BetaY +1.4793320894
+ID  44, Flags   0, Bx -0.0221119933, By -0.0511243045, BetaX +0.9932709932, BetaY +0.8451207876
+ID 173, Flags   0, Bx -0.0148790013, By -0.0308009163, BetaX +1.2090014219, BetaY +1.3065698147
+ID 174, Flags   0, Bx -0.0209400635, By -0.0430262387, BetaX +1.0235244036, BetaY +0.9997928739
+ID  47, Flags   0, Bx -0.0204163417, By -0.0368163250, BetaX +1.0388282537, BetaY +1.1541924477
+ID  48, Flags   0, Bx -0.0151638314, By -0.0260332171, BetaX +1.2002134323, BetaY +1.4735862017
+ID  49, Flags   0, Bx -0.0116345873, By -0.0182717592, BetaX +1.1360709667, BetaY +1.4576983452
+ID  50, Flags   0, Bx -0.0208267085, By -0.0262067411, BetaX +1.0348457098, BetaY +1.4831669331
+Number of matches after iteration 0: 10
+travelMean of Main Beams: 0, Count: 0
+Performing match iteration 2 with accepted plane deviation of 5000.000000 µm
+Number of matches after iteration 2: 17
+Performing match iteration 3 with accepted plane deviation of 5000.000000 µm
+-- Number of matched SLI 17
+number of centroids 17
+-- SLI dist2plane 105243.617188, Normal 0.015389 0.333941 0.942468
+-- SLI command done
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=14.05, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:522, usecs:440
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=14.08, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000417 / Setting shutter to: enb:0x01, sticks:496, usecs:417
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000406 / Setting shutter to: enb:0x01, sticks:483, usecs:406
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000399 / Setting shutter to: enb:0x01, sticks:474, usecs:399
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000458 / Setting shutter to: enb:0x01, sticks:544, usecs:458
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000431 / Setting shutter to: enb:0x01, sticks:512, usecs:431
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+ID: 0, IntTime: 0.000455 / Setting shutter to: enb:0x01, sticks:541, usecs:455
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.66, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.90, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:541, usecs:455
+ReferenceImage(): Reference image stored.
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE5 0x00 0x00 0x0F 0xB0 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.69, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.77, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:541, usecs:455
+Compressing Image with no compression!
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.68, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.61, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:541, usecs:455
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.60, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.59, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:541, usecs:455
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.62, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.71, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:541, usecs:455
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.73, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.64, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:541, usecs:455
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=13.76, floor=0.00, ceiling=0.00
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0x3F 0x00 0xFD 0xA2 0xAA 0x3F 0x00 0xFD 0xA2 0xAA 
+SLIFLI OFF Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0x3F 0x00 0xFD 0xA2 0xAA 0x3F 0x00 0xFD 0xA2 0xAA 
+Checking FLI Power State, 1, 64 64 128 128
+Freeze0: id=0, back=15.25, floor=0.00, ceiling=0.00
+Setting shutter to: enb:0x01, sticks:541, usecs:455
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:543, usecs:457
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 57.0, upperPix: 255.4, floor: 1730, shutter: 0.000457
+Setting shutter to: enb:0x01, sticks:513, usecs:432
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 45.0, upperPix: 255.1, floor: 1772, shutter: 0.000432
+Setting shutter to: enb:0x01, sticks:482, usecs:405
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 44.9, upperPix: 249.5, floor: 1769, shutter: 0.000405
+Setting shutter to: enb:0x01, sticks:455, usecs:383
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 45.2, upperPix: 237.5, floor: 1765, shutter: 0.000383
+Setting shutter to: enb:0x01, sticks:436, usecs:367
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 45.8, upperPix: 229.4, floor: 1761, shutter: 0.000367
+Setting shutter to: enb:0x01, sticks:422, usecs:355
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 46.4, upperPix: 223.8, floor: 1757, shutter: 0.000355
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Compressing Image with no compression!
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0xFF 0xFF 0x00 0x00 0x1F 0x00 0x50 0x00 0x22 0x1F 0x00 0x50 0x00 0x20 
+SLIFLI OFF Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0xFF 0xFF 0x00 0x00 0x1F 0x00 0x50 0x00 0x22 0x1F 0x00 0x50 0x00 0x20 
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:412, usecs:347
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 38.3, upperPix: 91.3, floor: 1755, shutter: 0.000347
+Setting shutter to: enb:0x01, sticks:620, usecs:522
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 75.5, upperPix: 156.3, floor: 1620, shutter: 0.000522
+Setting shutter to: enb:0x01, sticks:772, usecs:650
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 61.9, upperPix: 162.9, floor: 1676, shutter: 0.000650
+Setting shutter to: enb:0x01, sticks:885, usecs:745
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 56.2, upperPix: 172.7, floor: 1701, shutter: 0.000745
+Setting shutter to: enb:0x01, sticks:968, usecs:814
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 53.0, upperPix: 181.4, floor: 1715, shutter: 0.000814
+Setting shutter to: enb:0x01, sticks:1027, usecs:864
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 51.4, upperPix: 187.9, floor: 1722, shutter: 0.000864
+Setting shutter to: enb:0x01, sticks:1071, usecs:901
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 50.2, upperPix: 193.1, floor: 1727, shutter: 0.000901
+Setting shutter to: enb:0x01, sticks:1103, usecs:928
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 49.6, upperPix: 197.2, floor: 1730, shutter: 0.000928
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Compressing Image with no compression!
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0x00 0x00 0x00 0x00 0x3F 0x00 0x3C 0xA0 0x00 0x3F 0x00 0x3C 0xA0 0x0A 
+SLIFLI OFF Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0x00 0x00 0x00 0x00 0x3F 0x00 0x3C 0xA0 0x00 0x3F 0x00 0x3C 0xA0 0x0A 
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1126, usecs:948
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 49.1, upperPix: 132.7, floor: 1732, shutter: 0.000948
+Setting shutter to: enb:0x01, sticks:1384, usecs:1164
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 60.5, upperPix: 164.2, floor: 1696, shutter: 0.001164
+Setting shutter to: enb:0x01, sticks:1572, usecs:1322
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 56.0, upperPix: 174.4, floor: 1719, shutter: 0.001322
+Setting shutter to: enb:0x01, sticks:1710, usecs:1438
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 52.7, upperPix: 183.0, floor: 1734, shutter: 0.001438
+Setting shutter to: enb:0x01, sticks:1807, usecs:1520
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 51.3, upperPix: 189.2, floor: 1742, shutter: 0.001520
+Setting shutter to: enb:0x01, sticks:1880, usecs:1581
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 50.2, upperPix: 193.8, floor: 1748, shutter: 0.001581
+Setting shutter to: enb:0x01, sticks:1934, usecs:1627
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 49.9, upperPix: 197.9, floor: 1751, shutter: 0.001627
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Compressing Image with no compression!
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0xFF 0xFF 0x2F 0x00 0xA0 0x00 0x88 0x2F 0x00 0xA0 0x00 0x80 
+SLIFLI OFF Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0xFF 0xFF 0x2F 0x00 0xA0 0x00 0x88 0x2F 0x00 0xA0 0x00 0x80 
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:1973, usecs:1659
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 40.3, upperPix: 115.3, floor: 1754, shutter: 0.001659
+Setting shutter to: enb:0x01, sticks:2532, usecs:2130
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 63.4, upperPix: 161.0, floor: 1672, shutter: 0.002130
+Setting shutter to: enb:0x01, sticks:2937, usecs:2470
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 56.8, upperPix: 171.1, floor: 1700, shutter: 0.002470
+Setting shutter to: enb:0x01, sticks:3231, usecs:2717
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 53.7, upperPix: 180.2, floor: 1715, shutter: 0.002717
+Setting shutter to: enb:0x01, sticks:3445, usecs:2897
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 51.9, upperPix: 187.6, floor: 1724, shutter: 0.002897
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 50.0, upperPix: 190.7, floor: 1732, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 188.9, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 189.1, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 189.1, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 188.9, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.1, upperPix: 189.0, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 189.0, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 189.1, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.1, upperPix: 189.0, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.1, upperPix: 188.9, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 188.9, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 189.0, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 189.0, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 189.0, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.3, upperPix: 189.1, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.0, upperPix: 188.8, floor: 1740, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.2, upperPix: 188.9, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.3, upperPix: 189.2, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 48.3, upperPix: 189.0, floor: 1739, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Compressing Image with no compression!
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x1F 0x00 0x01 0x02 0x00 0x1F 0x00 0x01 0x02 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE6 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0xFF 0xFF 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x1F 0x00 0x01 0x02 0x00 0x1F 0x00 0x01 0x02 0x00 
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:3567, usecs:3000
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 74.1, upperPix: 255.5, floor: 1740, shutter: 0.003000
+Setting shutter to: enb:0x01, sticks:3175, usecs:2671
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 42.1, upperPix: 255.5, floor: 1846, shutter: 0.002671
+Setting shutter to: enb:0x01, sticks:2801, usecs:2356
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 41.6, upperPix: 255.5, floor: 1834, shutter: 0.002356
+Setting shutter to: enb:0x01, sticks:2485, usecs:2090
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 41.7, upperPix: 255.5, floor: 1821, shutter: 0.002090
+Setting shutter to: enb:0x01, sticks:2219, usecs:1866
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 42.3, upperPix: 255.5, floor: 1809, shutter: 0.001866
+Setting shutter to: enb:0x01, sticks:1997, usecs:1679
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 42.5, upperPix: 255.5, floor: 1800, shutter: 0.001679
+Setting shutter to: enb:0x01, sticks:1808, usecs:1521
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 42.9, upperPix: 255.5, floor: 1791, shutter: 0.001521
+Setting shutter to: enb:0x01, sticks:1647, usecs:1386
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 43.3, upperPix: 255.5, floor: 1784, shutter: 0.001386
+Setting shutter to: enb:0x01, sticks:1509, usecs:1269
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 43.5, upperPix: 255.4, floor: 1778, shutter: 0.001269
+Setting shutter to: enb:0x01, sticks:1387, usecs:1167
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 43.7, upperPix: 255.4, floor: 1773, shutter: 0.001167
+Setting shutter to: enb:0x01, sticks:1281, usecs:1077
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 44.1, upperPix: 255.4, floor: 1768, shutter: 0.001077
+Setting shutter to: enb:0x01, sticks:1187, usecs:999
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 44.2, upperPix: 255.4, floor: 1764, shutter: 0.000999
+Setting shutter to: enb:0x01, sticks:1104, usecs:929
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 44.4, upperPix: 255.4, floor: 1760, shutter: 0.000929
+Setting shutter to: enb:0x01, sticks:1030, usecs:867
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 44.5, upperPix: 255.3, floor: 1757, shutter: 0.000867
+Setting shutter to: enb:0x01, sticks:964, usecs:811
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 44.7, upperPix: 255.2, floor: 1754, shutter: 0.000811
+Setting shutter to: enb:0x01, sticks:904, usecs:761
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 44.6, upperPix: 255.1, floor: 1752, shutter: 0.000761
+Setting shutter to: enb:0x01, sticks:849, usecs:715
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 45.0, upperPix: 254.7, floor: 1749, shutter: 0.000715
+Setting shutter to: enb:0x01, sticks:799, usecs:672
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 45.0, upperPix: 245.4, floor: 1747, shutter: 0.000672
+Setting shutter to: enb:0x01, sticks:759, usecs:639
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 45.3, upperPix: 234.9, floor: 1744, shutter: 0.000639
+Setting shutter to: enb:0x01, sticks:729, usecs:614
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 46.1, upperPix: 227.3, floor: 1740, shutter: 0.000614
+Setting shutter to: enb:0x01, sticks:708, usecs:596
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+In: lowerPix: 46.5, upperPix: 222.6, floor: 1738, shutter: 0.000596
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Compressing Image with no compression!
+Received internal TOPS_TC_ID - CHU-A
+Received a LOADPARAM_TC
+SLIFLI ON Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+SLIFLI OFF Struct prepared: 0x5B 0xE4 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 0x0F 0x00 0x00 0x00 0x00 
+Received a SENDIMAGE_TC_ID
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A
+Received a REQSTAT_TC
+Checking FLI Power State, 1, 64 64 128 128
+Received internal TOPS_TC_ID - CHU-A
+Checking FLI Power State, 1, 64 64 128 128
+Setting shutter to: enb:0x01, sticks:692, usecs:582
+Received internal TOPS_TC_ID - CHU-A

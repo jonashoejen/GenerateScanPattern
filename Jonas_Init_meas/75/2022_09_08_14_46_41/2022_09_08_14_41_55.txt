@@ -1,0 +1,5 @@
+Goto Position X: -0.000319646, Y: 1.92232e-05, Z: -9.99965, U: -3.53746e-05, V: 2.87884e-05, W: 8.22939e-05
+Current Position X: -0.000319646, Y: 1.92232e-05, Z: -4.99965, U: -3.53746e-05, V: 2.87884e-05, W: 8.22939e-05, Time: Thu Sep  8 14:42:17 2022
+
+EGSE crash. Creating new EGSE window, Time: Thu Sep  8 14:45:59 2022
+

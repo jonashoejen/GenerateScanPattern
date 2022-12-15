@@ -1,0 +1,31 @@
+Goto Position X: 1.09227, Y: -8.77041, Z: -17.0461, U: -2.06807, V: -0.255396, W: 0.00161648
+Current Position X: 1.09227, Y: -8.77041, Z: 22.9539, U: -2.06807, V: -0.255396, W: 0.00161648, Time: Thu Sep  8 14:26:31 2022
+
+Goto Position X: 1.09184, Y: -8.77078, Z: -22.0464, U: -2.06809, V: -0.255385, W: 0.00173898
+Current Position X: 1.09231, Y: -8.77051, Z: -17.0461, U: -2.06808, V: -0.255393, W: 0.00166275, Time: Thu Sep  8 14:26:56 2022
+
+Goto Position X: 1.09187, Y: -8.77065, Z: -27.0468, U: -2.06807, V: -0.255373, W: 0.00177252
+Current Position X: 1.09187, Y: -8.77066, Z: -22.0464, U: -2.06807, V: -0.255373, W: 0.00177253, Time: Thu Sep  8 14:27:31 2022
+
+Movement Not Allowed, Time: Thu Sep  8 14:27:31 2022
+
+Goto Position X: 0, Y: 0, Z: 0, U: 0, V: 0, W: 0
+Current Position X: 1.09187, Y: -8.77066, Z: -22.0464, U: -2.06807, V: -0.255373, W: 0.00177253, Time: Thu Sep  8 14:28:00 2022
+
+Goto Position X: 6.22167e-11, Y: 0.000584623, Z: -19.9997, U: 1.44649e-05, V: -5.49004e-12, W: 8.40325e-05
+Current Position X: 0, Y: 0, Z: 0, U: -0, V: 0, W: -0, Time: Thu Sep  8 14:32:16 2022
+
+Goto Position X: 0, Y: 0, Z: 40, U: 0, V: 0, W: 0
+Current Position X: -3.28854e-08, Y: 0.000537652, Z: -19.9997, U: 1.45657e-05, V: 2.50299e-09, W: 7.7093e-05, Time: Thu Sep  8 14:32:48 2022
+
+Movement Not Allowed, Time: Thu Sep  8 14:32:48 2022
+
+Goto Position X: 0, Y: 0, Z: 0, U: 0, V: 0, W: 0
+Current Position X: -3.28854e-08, Y: 0.000537652, Z: -19.9997, U: 1.45657e-05, V: 2.50299e-09, W: 7.7093e-05, Time: Thu Sep  8 14:32:53 2022
+
+Goto Position X: 0, Y: 0, Z: 20, U: 0, V: 0, W: 0
+Current Position X: 0, Y: 0, Z: 0, U: -0, V: 0, W: -0, Time: Thu Sep  8 14:33:13 2022
+
+Goto Position X: -0.000350193, Y: 2.5292e-05, Z: 0.000341385, U: -3.51298e-05, V: 2.85866e-05, W: 9.10143e-05
+Current Position X: 3.42137e-08, Y: 2.76345e-19, Z: 19.9999, U: -4.8525e-20, V: -1.81328e-09, W: -2.41438e-20, Time: Thu Sep  8 14:34:08 2022
+
