@@ -1,0 +1,2 @@
+12/06/22 13:28:15 AscTCVerTM Acceptance success, ID:0x1f91, Seq:0  
+12/06/22 13:28:15 AscTCVerTM Execution failure, ID:0x1f91, Seq:0   - FAID=0x0502: Received timestamp verification failed - timestamp ignored (0)
