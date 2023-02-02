@@ -2,7 +2,7 @@ function [O_sparse, unit_vec_sparse, O_dense, unit_vec_dense] = analyseData()
 %clearvars
 %close all
 
-folder = 'C:\Users\jonas\Desktop\30220 Synthesis in Earth and Space Physics Fall 22\Jonas_Init_meas\';
+folder = 'C:\Users\jonas\OneDrive - Danmarks Tekniske Universitet\Skrivebord\Tidligere kurser & bøger\30220 Synthesis in Earth and Space Physics Fall 22\Repo\Jonas_Init_meas\';
 dir_ = {'65\2022_09_08_14_37_12\download\', '70\2022_09_08_14_41_52\download', '75\2022_09_08_14_46_41\download'};
 showImg = 0;
 fig = 0;
